@@ -1,5 +1,5 @@
 <a href="url">
-   <img src="formatted_banner.png" align="center" >
+   <img src="banner_with_text.png" align="center" >
 </a>
 
 ### About Me
