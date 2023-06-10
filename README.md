@@ -13,7 +13,7 @@
 - SQL and ORMs (ActiveRecord)
 - REST APIs
 
-#### Next Up:
+#### Up Next:
 - Exploring my first open source contributions
 - GraphQL
 - Python / Django
