@@ -2,8 +2,6 @@
    <img src="formatted_banner.png" align="center" >
 </a>
 
-## <p align="center">Caroline Peri <br> Software Developer | former Urban Planner</p>
-#### <p align="center"> </p>
 ### About Me
 - 🖤 Motivated by the power of data + writing clear, testable code that addresses specific problems
 - 💻 Graduating this summer from the [Turing School of Software + Design](https://turing.edu/programs)
