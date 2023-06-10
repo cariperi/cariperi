@@ -18,5 +18,8 @@
 - GraphQL
 - Python / Django
 
+#### Fun Fact:
+- 🍻 I've been homebrewing for 10+ years - my favorite style to make is a [berliner weisse](https://www.hopculture.com/what-is-a-berliner-weisse/).
+
 ### Contact 
 You can find me on LinkedIn [here](https://www.linkedin.com/in/carolineperi/), or reach out by e-mail at caroline.anne.peri@gmail.com. I love to chat all things cities + code!
