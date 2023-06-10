@@ -1,16 +1,14 @@
-### Hi there 👋
+<a href="url">
+   <img src="formatted_banner.png" align="center" height="48" width="48" >
+</a>
 
-<!--
-**cariperi/cariperi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <p align="center">Caroline Peri</p>
+#### <p align="center">Software Developer | former Urban Planner </p>
+### About Me
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 
+
+### Contact 
+You can find me on LinkedIn [here](https://www.linkedin.com/in/carolineperi/), or reach out by e-mail at caroline.anne.peri@gmail.com. I love to chat all things cities and code!
