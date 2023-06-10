@@ -14,6 +14,7 @@
 - REST APIs
 
 #### Next Up:
+- Exploring my first open source contributions
 - GraphQL
 - Python / Django
 
