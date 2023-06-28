@@ -12,6 +12,7 @@
 - Ruby on Rails
 - SQL and ORMs (ActiveRecord)
 - REST APIs
+- React
 
 #### Up Next:
 - Exploring my first open source contributions
