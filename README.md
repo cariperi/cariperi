@@ -13,11 +13,11 @@
 - SQL and ORMs (ActiveRecord)
 - REST APIs
 - React
+- Python / Django
 
 #### Up Next:
 - Exploring my first open source contributions
 - GraphQL
-- Python / Django
 
 #### Fun Fact:
 - 🍻 I've been homebrewing for 10+ years - my favorite style to make is a [berliner weisse](https://www.hopculture.com/what-is-a-berliner-weisse/).
