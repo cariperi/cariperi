@@ -4,9 +4,9 @@
 
 ### About Me
 - ☀️ Motivated by the power of data + writing clear, testable code that addresses specific problems
-- 💻 Graduating this summer from the [Turing School of Software + Design](https://turing.edu/programs)
-- 💼 Currently seeking a back-end or full-stack software role
-- 🗺️ Open to in-person (PA, NYC, NJ) or remote work
+- 💼 Full Stack Engineer working on short-term rental property management software at [Direct](https://directsoftware.com/)
+- 💻 Studied Back End Engineering at the [Turing School of Software + Design](https://turing.edu/programs)
+
 
 #### Experience With:
 - Ruby on Rails
@@ -23,4 +23,4 @@
 - 🍻 I've been homebrewing for 10+ years - my favorite style to make is a [berliner weisse](https://www.hopculture.com/what-is-a-berliner-weisse/).
 
 ### Contact 
-You can find me on LinkedIn [here](https://www.linkedin.com/in/carolineperi/), or reach out by e-mail at caroline.anne.peri@gmail.com. I love to chat all things cities + code!
+You can find me on LinkedIn [here](https://www.linkedin.com/in/carolineperi/), or reach out by e-mail at caroline.anne.peri@gmail.com. I love to chat all things code + cities!
