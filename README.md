@@ -3,21 +3,23 @@
 </a>
 
 ### About Me
-- ☀️ Motivated by the power of data + writing clear, testable code that addresses specific problems
 - 💼 Full Stack Engineer working on short-term rental property management software at [Direct](https://directsoftware.com/)
+- ☀️ Motivated by the power of data + writing clear, testable code that addresses specific problems
 - 💻 Studied Back End Engineering at the [Turing School of Software + Design](https://turing.edu/programs)
 
 
 #### Experience With:
 - Ruby on Rails
+- Postgres
+- React / Javascript
 - SQL and ORMs (ActiveRecord)
 - REST APIs
-- React
+- GraphQL
 - Python / Django
 
 #### Up Next:
 - Exploring my first open source contributions
-- GraphQL
+- Diving into design patterns
 
 #### Fun Fact:
 - 🍻 I've been homebrewing for 10+ years - my favorite style to make is a [berliner weisse](https://www.hopculture.com/what-is-a-berliner-weisse/).
