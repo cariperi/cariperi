@@ -3,7 +3,7 @@
 </a>
 
 ### About Me
-- 💼 Full Stack Engineer working on short-term rental property management software at [Direct](https://directsoftware.com/)
+- 💼 Full Stack Engineer working on church management software at [Planning Center](https://www.planningcenter.com/)
 - ☀️ Motivated by the power of data + writing clear, testable code that addresses specific problems
 - 💻 Studied Back End Engineering at the [Turing School of Software + Design](https://turing.edu/programs)
 
