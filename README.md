@@ -3,19 +3,18 @@
 </a>
 
 ### About Me
-- 💼 Full-stack developer working on church management software at [Planning Center](https://www.planningcenter.com/)
-- ☀️ Motivated by the power of data + writing clear, testable code that addresses specific problems
+- 💼 Full-stack developer building church management software at [Planning Center](https://www.planningcenter.com/)
+- ☀️ Motivated by the power of data + writing clear, testable code that addresses specific business problems
 - 💻 Studied Back End Engineering at the [Turing School of Software + Design](https://turing.edu/programs)
 
 
 #### Experience With:
 - Ruby on Rails
-- Postgres
 - React / Javascript
-- SQL and ORMs (ActiveRecord)
+- Python / Django
+- Postgres, MySQL
 - REST APIs
 - GraphQL
-- Python / Django
 
 #### Up Next:
 - Exploring my first open source contributions
